@@ -2,7 +2,8 @@
 - 👀 Inside activities: Playing Video games
 - 👀 Outside activities: Spending time with friends
 - 🌱 I’m currently learning mostly JS , DB infrastracture , generaly boring things
-- 📫 If you want to contact me for some reason please send email to smyrnisgiannis@gmail.com
+- 📫 If you want to contact me for some reason please send email to kodosaek@gmail.com
+- 📫 if you want to contact me for proff reason please send email to smyrnisgiannis@gmail.com
 - ⚡ Fun fact: Most of the time i do not answear phone calls
 
 <!---
