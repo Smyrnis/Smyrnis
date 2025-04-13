@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Smyrnis 
-- 👀 Inside activities: Playing Video games
-- 👀 Outside activities: Spending time with friends
-- 🌱 I’m currently learning mostly JS , DB infrastracture , generaly boring things
-- 📫 If you want to contact me for some reason please send email to kodosaek@gmail.com
-- 📫 if you want to contact me for proff reason please send email to smyrnisgiannis@gmail.com
-- ⚡ Fun fact: Most of the time i do not answear phone calls
+- 👋 Hi, I’m @Smyrnis Giannis
+- 👀 Inside activities: Being bored
+- 👀 Outside activities: Touching Grass
+- 🌱 I’m currently learning Data Visualization
+- 📫 If you want to contact me send email to smyrnisgiannis@gmail.com
 
 <!---
 Smyrnis/Smyrnis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
