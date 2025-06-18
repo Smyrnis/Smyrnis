@@ -17,7 +17,7 @@ You can reach me <a href="mailto:smyrnisgiannis@gmail.com">here</a>
 - My old projects
 - A website for freelancers(Mostly electricians, mechanincs e.t.c)
 - A wearhouse managment system using .NET(C#) (Working on it soon...)
-- Time to time playing a little of Dota2.
+- Time to time playing a little Dota2.
 
 ##  I'm currently learning
 
