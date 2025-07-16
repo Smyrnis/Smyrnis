@@ -15,9 +15,9 @@ You can reach me <a href="mailto:smyrnisgiannis@gmail.com">here</a>
 ##  I'm currently working on
 
 - My old projects
-- A website for freelancers(Mostly electricians, mechanincs e.t.c)
-- A wearhouse managment system using .NET(C#) (Working on it soon...)
-- Time to time playing a little Dota2.
+- A webserver made with c.
+- A wearhouse managment system using .
+- Finding a Job.
 
 ##  I'm currently learning
 
@@ -37,6 +37,7 @@ You can reach me <a href="mailto:smyrnisgiannis@gmail.com">here</a>
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=347433)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.NET&color=090040)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=066666)
 
 </br>
 
