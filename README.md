@@ -1,1 +1,3 @@
-<img src="/image/Blackhole.png" href="https://smyrnis.github.io/Smyrnis/" width="100%" height="800" frameborder="0">
+<a href="https://smyrnis.github.io/Smyrnis/">
+  <img src="/image/Blackhole.png" width="100%" height="800">
+</a>
